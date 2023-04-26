@@ -1,5 +1,5 @@
 
-# MIST 4610 Data ModelGroup Project
+# MIST 4610 Data Model Group Project
 
 
 
